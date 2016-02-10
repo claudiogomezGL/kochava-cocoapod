@@ -23,7 +23,6 @@
 - (void) KochavaBackgroundFlushCompleted;
 @end
 
-
 @protocol KochavaLocationManagerDelegate;
 @protocol KochavaLocationManagerDelegate <NSObject>
 @optional

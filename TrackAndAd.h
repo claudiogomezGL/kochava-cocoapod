@@ -64,6 +64,9 @@
 - (void) enableConsoleLogging:(bool)enableLogging;
 
 - (void) trackEvent:(NSString*)eventTitle :(NSString*)eventValue;
+- (void) trackEvent:(NSString*)eventTitle
+		  withValue:(NSString*)eventValue
+		 andReceipt:(NSString*)encodedReceipt;
 - (void) identityLinkEvent:(NSDictionary*)identityLinkData;
 - (void) spatialEvent:(NSString*)eventTitle :(float)x :(float)y :(float)z;
 - (void) setLimitAdTracking:(bool)limitAdTracking;

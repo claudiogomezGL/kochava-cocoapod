@@ -83,7 +83,7 @@
 - (void) trackWatchEvent:(NSString*)eventTitle :(NSString*)eventValue;
 
 
-@property (nonatomic, assign) id <KochavaTrackerClientDelegate> trackerDelegate;
+@property (nonatomic, weak) id <KochavaTrackerClientDelegate> trackerDelegate;
 
 @end
 

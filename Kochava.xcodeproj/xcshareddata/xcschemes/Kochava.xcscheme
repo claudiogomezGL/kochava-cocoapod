@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E95E17331FC7371400668A29"
+               BlueprintIdentifier = "E95E17181FC7339E00668A29"
                BuildableName = "Kochava.framework"
                BlueprintName = "Kochava"
                ReferencedContainer = "container:Kochava.xcodeproj">
@@ -47,7 +47,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E95E17331FC7371400668A29"
+            BlueprintIdentifier = "E95E17181FC7339E00668A29"
             BuildableName = "Kochava.framework"
             BlueprintName = "Kochava"
             ReferencedContainer = "container:Kochava.xcodeproj">
@@ -65,7 +65,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E95E17331FC7371400668A29"
+            BlueprintIdentifier = "E95E17181FC7339E00668A29"
             BuildableName = "Kochava.framework"
             BlueprintName = "Kochava"
             ReferencedContainer = "container:Kochava.xcodeproj">

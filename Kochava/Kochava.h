@@ -15,3 +15,5 @@ FOUNDATION_EXPORT double KochavaVersionNumber;
 FOUNDATION_EXPORT const unsigned char KochavaVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <Kochava/PublicHeader.h>
+
+#import "TrackAndAd.h"
